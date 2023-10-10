@@ -7,3 +7,4 @@ solution.html
 !.vscode/extensions.json
 *.code-workspace
 goal images
+css/solution.css
